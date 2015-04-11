@@ -1,0 +1,17 @@
+html {
+    font-family: 'Ubuntu', sans-serif;
+}
+a.button {
+    color: #FFF;
+    background-color: #FFCC00;
+    text-decoration: none;
+    padding: 4px;
+    border-bottom: 3px solid #FF9900;
+}
+a.button:hover {
+    color: #FFF;
+    background-color: #FFBB00;
+    text-decoration: none;
+    padding: 4px;
+    border-bottom: 3px solid #FF8800;
+}
