@@ -1,17 +1,18 @@
-html {
-    font-family: 'Ubuntu', sans-serif;
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
 }
-a.button {
-    color: #FFF;
-    background-color: #FFCC00;
-    text-decoration: none;
-    padding: 4px;
-    border-bottom: 3px solid #FF9900;
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
 }
-a.button:hover {
-    color: #FFF;
-    background-color: #FFBB00;
-    text-decoration: none;
-    padding: 4px;
-    border-bottom: 3px solid #FF8800;
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
 }
