@@ -1,18 +1,168 @@
-body {
-  padding-top: 70px;
-  padding-bottom: 30px;
+.primary-0 { color: #4E6E95 }	/* Main Primary color */
+.primary-1 { color: #ACB5C0 }
+.primary-2 { color: #8599B0 }
+.primary-3 { color: #2B5384 }
+.primary-4 { color: #103C71 }
+.background-0 { background-color: #4E6E95 }	/* Main Primary color */
+.background-1 { background-color: #ACB5C0 }
+.background-2 { background-color: #8599B0 }
+.background-3 { background-color: #2B5384 }
+.background-4 { background-color: #103C71 }
+
+
+#background {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 0;
+    width:100%;
+    height:100%;
+    background-color:#FFF;
+    font-family: 'Nova Mono';
+}
+#frontground {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+    width:100%;
+    height:100%;
+    background-color:#FFF;
+    font-family: 'Roboto';
 }
 
-.theme-dropdown .dropdown-menu {
-  position: static;
-  display: block;
-  margin-bottom: 20px;
+.faded {
+    opacity:0.1;
 }
 
-.theme-showcase > p > .btn {
-  margin: 5px 0;
+.barely-faded {
+    opacity:0.9;
 }
 
-.theme-showcase .navbar .container {
-  width: auto;
+.center-vertical {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.background-text {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align:center;
+}
+
+blockquote {
+    margin-left:25%;
+    margin-right:25%;
+    padding:0.25em;
+    font-size: 1em;
+}
+
+p {
+    margin-left:20%;
+    margin-right:20%;
+    padding-right:2%;
+}
+
+p.title {
+    color:#FFF;
+    font-weight:bolder;
+    font-size: 4em;
+    text-align:right;
+    text-transform:uppercase;
+    padding-top: 0.25em;
+    padding-left: 0.25em;
+    padding-bottom: 0.25em;
+    background-color: #4E6E95;
+}
+
+p.header {
+    color:#FFF;
+    font-size: 2em;
+    text-align:right;
+    text-transform:uppercase;
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+    padding-left: 0.25em;
+    background-color: #8599B0
+}
+
+p.link {
+    cursor:pointer;
+    text-decoration:underline;
+    font-weight:bold;
+}
+
+p.project-header {
+    color:#000;
+    font-size: 1.5em;
+    text-align:left;
+    text-transform:uppercase;
+    padding-top:0.25em;
+    padding-bottom:0.25em;
+    padding-right:0.25em;
+    padding-left:2%;
+    background-color: #ACB5C0
+}
+
+.blinking-cursor {
+    font-weight: 100;
+    color: #2E3D48;
+    -webkit-animation: 1s blink step-end infinite;
+    -moz-animation: 1s blink step-end infinite;
+    -ms-animation: 1s blink step-end infinite;
+    -o-animation: 1s blink step-end infinite;
+    animation: 1s blink step-end infinite;
+}
+
+.reverse {
+    unicode-bidi: bidi-override;
+    direction: rtl;
+}
+
+
+@keyframes "blink" {
+    from, to {
+        color: black;
+    }
+    50% {
+        color: transparent;
+    }
+}
+
+@-moz-keyframes blink {
+    from, to {
+        color: black;
+    }
+    50% {
+        color: transparent;
+    }
+}
+
+@-webkit-keyframes "blink" {
+    from, to {
+        color: black;
+    }
+    50% {
+        color: transparent;
+    }
+}
+
+@-ms-keyframes "blink" {
+    from, to {
+        color: black;
+    }
+    50% {
+        color: transparent;
+    }
+}
+
+@-o-keyframes "blink" {
+    from, to {
+        color: black;
+    }
+    50% {
+        color: transparent;
+    }
 }
