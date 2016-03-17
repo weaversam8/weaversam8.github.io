@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/alphaweaver
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://me.thatcoolidea.com
+  * I am alphaweaver (https://keybase.io/alphaweaver) on keybase.
+  * I have a public key with fingerprint EAB3 E298 F7ED DBE1 5E14  C7C9 27E4 9102 0040 1AD4
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120ed5cf308ddac4336c09dc68c3cf7bdd7259b4a44cf704df8bb4714151ec6c3240a",
+            "fingerprint": "eab3e298f7eddbe15e14c7c927e4910200401ad4",
+            "host": "keybase.io",
+            "key_id": "27e4910200401ad4",
+            "kid": "010175ba72867a54062c638ef9a03f7e9ddf71836ac1d5e90384b5320d80759a30ab0a",
+            "uid": "77621ca0562c3119e128c2a9cd456e19",
+            "username": "alphaweaver"
+        },
+        "service": {
+            "hostname": "me.thatcoolidea.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1458239957,
+    "expire_in": 157680000,
+    "prev": "7068ee18922be65d67fcd005129d6d0a0f8f24d2c9a93c1f4fedd3b9a0938516",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMN4AnicbZJrTBRXGIZ3xbZAiwEawHLRMCS1LQs9c5+BXpCmgUS0AomtVlzOzDmz
+O7DsbvfCJUjFEC1WI9K0NP2hgBW0CqEYGiqmjcolWBoJuEtFoUQqFVTIYqjVakln
+iP7r+TM5Z973+d7vO6cvLMgQatxwq36VISPWZxy62Ow1bLvzyF9JSA5UQaRVEsV4
+5YNtCLs95mIVEWkEICmAESsrNBAQgjJD05wMRCRzgkzLCi8hxFOsKDGQYbQtYJAi
+SBLDkwzJkljmZJpiACRMhKLaLdjldKl2j4bFUKIxJQoKjxGSMMlikpF5WaR4zIgk
+oABgAAkRoxmtDrfu0MJJ0I1TVYd2pm3MK/H+R/8sNyB5VoI8JXA8ZBnAUTJHC1gR
+IaC1qiJCCk8KNAdlErFYBLTASCxNASQAnhUhDaC0ktu7guN5jiJlCFgNQ5OkiElK
+kCkoyohhOUyKutCNXXZYgjU1tDmtsAzDUuwiqkyE9qNUlbE+W72Zp6ISnOqxQo/s
+cNhUhGGq7CjRKE6Xw+OQHTZNYPV4nGm631Ph1A1lWDI/RZkl1Y60gWoGrYZbddiJ
+NFJTyh5VZ5MMK1C0KLK8icDlTtWFzaquYHlOANrSy+BSvS3ACRiTgkhREuZYxPGK
+jABgSUpEHAIQKIJCMYiSRSjSMqkwinZdtKTNUKQFluQIvblP7A6NTWo5oUVjulWL
+HXq8LkxUXbq4c7XBGGp4/rlV+kszhIaEP3t/98vDDeOnO4Ooqs29raOblLrHzvPV
+wvCDHu/9V+gvj4x8tKfd9rIFDC7eLg1+pyqvraZkNObJVMDUM7dq1JW4+FZB/vf5
+D3wzbW9GXuia27RQUDS+MItTwOWiT2s8A3enl6OzmtqbvmUzf0lPX67riPmYmejN
+yDzgqZ0NvRnAfb8PlwW/1hB5+nD27S3N/FLfQMR4vC1JCbkZpbyq2r8xFwoTnRWF
+2/7sim0fHIi7OuVt2GX0X8nqZhfFmcHBjgO593aFQy6rZHkg4eT8k6Sjx2rVkpTY
+jqj2+OjA2uAPRrNTXtyQcuNhYMHa33jF/9LurX73DuvsxPqE6py2Upfffy3F2564
+rqFvyJ8ctS6/cnt6bvfYsUvH17yb3jffGvchlXOuf8gavtX0b/MLe1v+aD+4tGAe
+CQyf9Dqz6xZackcftkwW0Y3XmHuRW8T9XxDk35O97JH3+n+7VVyZ+n5/xFXfX5+1
+1n730/WzJ+gyX8Z0YuLBvV8dqp2fKTph+HFHo0s1ZXcbppt6U38IGLPWvq3wlp6Y
+cyk19b+Grp8NyS9PuN6TNBP/sy+CLew6uznRNRm/O5p9NJZzI7tm49dhO6vPlK/e
+138ob3/f8cy8eLvhwueXt+/bs3RqKu7uP2sG3PVhdn6kuOH1x8PzCeYzRjjW4XMF
+6I0NPH6jwHI+qCeZO8VPcHeOJnfO/Qdbw8rQ
+=qBX5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alphaweaver
+
+==================================================================
