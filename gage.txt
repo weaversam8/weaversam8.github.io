@@ -1,0 +1,2 @@
+echo "loading hint.... Please be patient, it is a detailed animation."
+/home/pi/calc.sh
